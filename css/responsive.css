@@ -252,6 +252,11 @@ ul.reports a {
 .logo-nav-row .navbar-nav>li>a {
 	padding: 10px 5px;
 }
+
+.logo-nav-row .navbar-brand {
+	padding: 12px 0px 15px 0;
+}
+
 .logo-nav-row ul.nav.navbar-nav.navbar-right .bars-btn a, .logo-nav-row ul.nav.navbar-nav.navbar-right .search-btn a {
 	line-height: 40px;
 }

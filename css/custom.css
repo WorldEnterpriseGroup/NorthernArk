@@ -224,9 +224,9 @@ header {
 	border: 0px;
 }
 .logo-nav-row .navbar-brand {
-	padding: 15px 0;
+	padding: 33px 0px 15px 0;
 	height: inherit;
-	margin-right: 70px;
+	margin-right: 10px;
 }
 .logo-nav-row .navbar-nav {
 	margin: 0;
@@ -2647,7 +2647,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 .h3-logo-row .h3-logo {
 	text-align: center;
-	padding: 19px 0;
+	padding: 24px 0 10px 0;
 }
 .h3-logo-row ul.quick-links {
 	margin: 20px 0 14px;
@@ -7058,4 +7058,13 @@ a[data-toggle="collapse"] {
 	-webkit-transition: all ease-in-out 0.3s;
 }
 /******** + ========== + Transition End + ========== + ********/
-9
+
+
+/******** + ========== + KRASH Start + ========== + ********/
+
+.logosvg {
+	padding-top: '15px';
+}
+
+/******** + ========== + KRASH End + ========== + ********/
+
