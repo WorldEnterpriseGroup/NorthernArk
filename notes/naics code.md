@@ -29,3 +29,7 @@ https://gsaelibrary.gsa.gov/ElibMain/sinDetails.do?executeQuery=YES&scheduleNumb
 Technical Consulting Services - Services include providing advice and assistance on technical domains and issues (except those covered by the environmental,energy, and IT consulting SINs on this Schedule). Typical associated tasks include, but are not limited to: strategic planning, feasibility analysis, requirements determination, policy interpretation and support, process analysis and/or development, research studies, testing (other than laboratory testing), program analysis, and associated support tasks.
 
 https://gsaelibrary.gsa.gov/ElibMain/sinDetails.do?executeQuery=YES&scheduleNumber=MAS&flag=&filter=&specialItemNumber=541690
+
+For SIC Codes spreadsheet refer to this link,
+
+https://www.gsa.gov/buy-through-us/purchasing-programs/gsa-multiple-award-schedule/mas-roadmap/mas-roadmap-gather-information/mas-scope-and-templates?_gl=1*xzlfod*_ga*MTI0MTA0NTk5MS4xNjc4OTkyNjYw*_ga_HBYXWFP794*MTY3ODk5MjY2MC4xLjEuMTY3ODk5MjY2NS4wLjAuMA..
